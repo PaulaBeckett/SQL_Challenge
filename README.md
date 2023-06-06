@@ -13,8 +13,8 @@ contents:
 NOTE for queries:
     Inner joins were used for linking tables to query only on items that met all criteria.
 
-    Although the dataset was full, eg every employee was included on the salaries table, and every department had a manager,
-    I would consult with my team at Pewlett Hackard to consider if these queries should include only all connected data or if it should also highlight
+    Although in this instance the dataset was full, eg every employee was included on the salaries table, and every department had a manager,
+    in the real world I would consult with my team at Pewlett Hackard to consider if these queries should include only all connected data or if it should also highlight
     where/if there were gaps. Considering the age (and probable non-maintenence) of the dataset it could be possible to have missing pieces.
 
     As comments in my queries I have noted where I would change my joins to query even if some data is missing, eg an employee on the list, but with no listing on the salaries table
